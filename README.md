@@ -1,2 +1,2 @@
-# Sahara-2-Configuration-Microservice
-A microservice for managing configurations and secrets for the Sahara 2.0 Framework.
+# Configuration-Microservice
+A microservice "hub" for managing and sharing configurations and secrets.
